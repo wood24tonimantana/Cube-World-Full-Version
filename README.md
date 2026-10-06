@@ -246,4 +246,4 @@ This repository serves as the official landing page for Cube World. The software
 **Get the most recent version of Cube World today!**
 
 ---
-**Last updated:** 2026-10-06 09:54:05 UTC
+**Last updated:** 2026-10-06 16:35:03 UTC
